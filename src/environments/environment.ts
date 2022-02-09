@@ -5,7 +5,7 @@
 export const environment = {
 
   production: false,
-  url: 'https://aoa-prueba-backend.herokuapp.com/api/',
+  url: 'http://127.0.0.1:8000/api/',
   carSelect: 'https://www.datos.gov.co/resource/xdk5-pm3f.json',
   
 };
