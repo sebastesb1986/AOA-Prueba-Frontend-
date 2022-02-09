@@ -11,6 +11,7 @@
     "lite": "lite-server",
     "postinstall": "ng build --prod",
     "preinstall": "npm install -g @angular/cli @angular/compiler-cli typescript"
+
   },
   "private": true,
   "dependencies": {
